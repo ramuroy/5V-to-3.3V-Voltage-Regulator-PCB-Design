@@ -35,8 +35,8 @@ This is a **PCB design** for a **5V to 3.3V Voltage Regulator**, created using *
 This project was created with the help of tutorials from the **[Ampnics YouTube Channel](https://youtube.com/playlist?list=PLxgq6Jtu7shQPHqYjKUVa28CmktTzHDLp&si=2TdaJywcDumlzVk_)**. Big thanks for their awesome content!
 
 ## 🔗 Links  
-- 🚀 **Project Discussion on LinkedIn**: [LinkedIn](https://www.linkedin.com/)  
-- 📺 **Ampnics Tutorial Playlist**: [YouTube](https://youtube.com/playlist?list=PLxgq6Jtu7shQPHqYjKUVa28CmktTzHDLp&si=2TdaJywcDumlzVk_)
+- 🚀 **Project Discussion on LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ramu-roy-b780382b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📺 **Ampnics Tutorial Playlist**: [YouTube](https://youtube.com/playlist?list=PLxgq6Jtu7shQPHqYjKUVa28CmktTzHDLp&si=jp1xYo7E0JcdnXuT)
 
 ## 📜 License  
 This project is licensed under the **MIT License** – feel free to use, share, and modify it!
